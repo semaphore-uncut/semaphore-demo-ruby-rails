@@ -1,4 +1,4 @@
-# Semaphore demo CI/CD pipeline using Ruby on Rails
+# Semaphore demo CI/CD pipeline using Ruby on Rails - Class Demo
 
 This is an example application and CI/CD pipeline showing how to run a Ruby on
 Rails project on Semaphore 2.0.
